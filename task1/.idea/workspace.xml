@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee567dc0-9795-4d02-8e8d-85d41251026f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1uGZaytS6m9liFhYy8QeNQ5k2Xf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="task1" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee567dc0-9795-4d02-8e8d-85d41251026f" name="Default Changelist" comment="" />
+      <created>1624293953611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624293953611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="123" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624297379522">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="618" y="123" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1624297379522" />
+    <state x="943" y="242" key="FileChooserDialogImpl" timestamp="1624297374208">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="943" y="242" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1624297374208" />
+    <state width="1663" height="242" key="GridCell.Tab.0.bottom" timestamp="1624298288554">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1624298288554" />
+    <state width="1663" height="242" key="GridCell.Tab.0.center" timestamp="1624298288553">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1624298288553" />
+    <state width="1663" height="242" key="GridCell.Tab.0.left" timestamp="1624298288553">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1624298288553" />
+    <state width="1663" height="242" key="GridCell.Tab.0.right" timestamp="1624298288553">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="242" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1624298288553" />
+    <state x="988" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1624293957935">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="988" y="289" key="com.intellij.ide.util.TipDialog/0.0.1707.920@0.0.1707.920" timestamp="1624293957935" />
+    <state x="304" y="170" key="new project wizard" timestamp="1624298286883">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="304" y="170" key="new project wizard/0.0.1707.920@0.0.1707.920" timestamp="1624298286883" />
+    <state x="937" y="214" width="672" height="677" key="run.anything.popup" timestamp="1624298158799">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="937" y="214" width="672" height="677" key="run.anything.popup/0.0.1707.920@0.0.1707.920" timestamp="1624298158799" />
+  </component>
+</project>
