@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Hello Page</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<p th:text="${message}"/>
+<form action="/hello" method="post">
+    <p>Имя: <input type="text" name="userName" /></p>
+    <p><input type="submit" value="Submit" /> </p>
+</form>
+</body>
+</html>
