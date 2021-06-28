@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6d69dc1-d068-4e10-9bb6-181f93917d82" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1uaPskuWVxzAf268gR4lB7cVy77" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/hello" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.AccessingDataJpaApplication" />
+      <module name="task6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/java/hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6d69dc1-d068-4e10-9bb6-181f93917d82" name="Default Changelist" comment="" />
+      <created>1624900935460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624900935460</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="203" width="1089" height="600" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624902652198">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="618" y="203" width="1089" height="600" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1624902652198" />
+    <state x="893" y="255" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1624901389554">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="893" y="255" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1707.920@0.0.1707.920" timestamp="1624901389554" />
+    <state x="1011" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624901328710">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="1011" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920@0.0.1707.920" timestamp="1624901328710" />
+    <state x="943" y="223" key="FileChooserDialogImpl" timestamp="1624901384587">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="943" y="223" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1624901384587" />
+    <state width="809" height="242" key="GridCell.Tab.0.bottom" timestamp="1624902646191">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="809" height="242" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1624902646191" />
+    <state width="809" height="242" key="GridCell.Tab.0.center" timestamp="1624902646190">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="809" height="242" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1624902646190" />
+    <state width="809" height="242" key="GridCell.Tab.0.left" timestamp="1624902646190">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="809" height="242" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1624902646190" />
+    <state width="809" height="242" key="GridCell.Tab.0.right" timestamp="1624902646190">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="809" height="242" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1624902646190" />
+  </component>
+</project>
