@@ -1,0 +1,24 @@
+2021-07-13 09:11:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Значение слишком длинное для поля "BODY VARCHAR(255)": "'hhhhh  hhhhh hhhhh hhhhh hhhhh hhhhhhhhhh  hhhhh hhhhh hhhhh hhhhh hhhhhhhhhh  hhhhh hhhhh hhhhh hhhhh hhhhhhhhhh  hhhhh hhhhh ... (1908)"
+Value too long for column "BODY VARCHAR(255)": "'hhhhh  hhhhh hhhhh hhhhh hhhhh hhhhhhhhhh  hhhhh hhhhh hhhhh hhhhh hhhhhhhhhh  hhhhh hhhhh hhhhh hhhhh hhhhhhhhhh  hhhhh hhhhh ... (1908)"; SQL statement:
+insert into notes (body, head, username, id) values (?, ?, ?, ?) [22001-197]
+2021-07-13 09:12:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Значение слишком длинное для поля "BODY VARCHAR(255)": "'hhhhh  hhhhh hhhhh hhhhh hhhhh hhhhh hhhhh  hhhhh hhhhh hhhhh hhhhh hhhhh hhhhh  hhhhh hhhhh hhhhh hhhhh hhhhh hhhhh  hhhhh hhh... (332)"
+Value too long for column "BODY VARCHAR(255)": "'hhhhh  hhhhh hhhhh hhhhh hhhhh hhhhh hhhhh  hhhhh hhhhh hhhhh hhhhh hhhhh hhhhh  hhhhh hhhhh hhhhh hhhhh hhhhh hhhhh  hhhhh hhh... (332)"; SQL statement:
+insert into notes (body, head, username, id) values (?, ?, ?, ?) [22001-197]
+2021-07-14 01:13:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Значение слишком длинное для поля "BODY VARCHAR(255)": "'sdfghgfhhhhhhhhhhhhhhhhhhhhgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggsdfghgfhhhhhhhhhhhhhhhhhhhhgggggggggggg... (792)"
+Value too long for column "BODY VARCHAR(255)": "'sdfghgfhhhhhhhhhhhhhhhhhhhhgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggsdfghgfhhhhhhhhhhhhhhhhhhhhgggggggggggg... (792)"; SQL statement:
+insert into notes (body, head, username, id) values (?, ?, ?, ?) [22001-197]
+2021-07-14 01:17:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Значение слишком длинное для поля "BODY VARCHAR(255)": "'dvssxxxxxxxxxxxxxdvssxxxxxxxxxxxxxxdvssxxxxxxxxxxxxxxdvssxxxxxxxxxxxxxxdvssxxxxxxxxxxxxxxdvssxxxxxxxxxxxxxxdvssxxxxxxxxxxxxxxdv... (438)"
+Value too long for column "BODY VARCHAR(255)": "'dvssxxxxxxxxxxxxxdvssxxxxxxxxxxxxxxdvssxxxxxxxxxxxxxxdvssxxxxxxxxxxxxxxdvssxxxxxxxxxxxxxxdvssxxxxxxxxxxxxxxdvssxxxxxxxxxxxxxxdv... (438)"; SQL statement:
+update notes set body=?, head=?, username=? where id=? [22001-197]
+2021-07-14 02:10:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Значение слишком длинное для поля "BODY VARCHAR(255)": "'sdddcccccccccccccccccccccccccccccccccccccccccccccccccccsdddcccccccccccccccccccccccccccccccccccccccccccccccccccsdddccccccccccccc... (275)"
+Value too long for column "BODY VARCHAR(255)": "'sdddcccccccccccccccccccccccccccccccccccccccccccccccccccsdddcccccccccccccccccccccccccccccccccccccccccccccccccccsdddccccccccccccc... (275)"; SQL statement:
+insert into notes (body, head, username, id) values (?, ?, ?, ?) [22001-197]
+2021-07-15 02:18:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Значение слишком длинное для поля "BODY VARCHAR(255)": "'qweqweeeeeeeeeeeeeeqweeeeeeeeeeeeeeqweeeeeeeeeeeeeevqweeeeeeeeeeeeeeqweeeeeeeeeeeeeeqweeeeeeeeeeeeeeqweeeeeeeeeeeeeeqweeeeeeeee... (404)"
+Value too long for column "BODY VARCHAR(255)": "'qweqweeeeeeeeeeeeeeqweeeeeeeeeeeeeeqweeeeeeeeeeeeeevqweeeeeeeeeeeeeeqweeeeeeeeeeeeeeqweeeeeeeeeeeeeeqweeeeeeeeeeeeeeqweeeeeeeee... (404)"; SQL statement:
+update notes set body=?, head=?, username=? where id=? [22001-197]
